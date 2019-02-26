@@ -11,7 +11,7 @@ site_author: Tiago Silva (after Denis Sergeev)
 docs_dir: src
 site_dir: _site
 
-pages:
+nav:
   - Home: index.md
   - Programme: programme.md
   - Content: content.md

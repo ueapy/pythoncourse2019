@@ -15,7 +15,7 @@
 | Defining functions        | Tiago  | Lecture  | 13:45 | 14:30 | 00:45    |
 | Build a simple program    | Luz    | Exercise | 14:30 | 15:30 | 01:00    |
 | *Coffee*                  |        | Break    | 15:30 | 16:00 | 00:30    |
-| Modularity and packages   | Denis  | Lecture  | 16:00 | 16:30 | 00:30    |
+| Modularity and packages   | Callum | Lecture  | 16:00 | 16:30 | 00:30    |
 | Build another program     | Luz    | Exercise | 16:30 | 17:00 | 00:30    |
 
 ## Day 2 (2019-05-23 Thu)
@@ -27,7 +27,7 @@
 | Going deeper in numpy     | Luz    | Lecture  | 11:00 | 12:00 | 01:00    |
 | *Lunch*                   |        | Break    | 12:00 | 12:45 | 00:45    |
 | Intro to matplotlib       | Callum | Lecture  | 12:45 | 14:00 | 01:15    |
-| Plotting exercise         | Maria  | Exercise | 14:00 | 15:00 | 01:00    |
+| Plotting exercise         | Callum | Exercise | 14:00 | 15:00 | 01:00    |
 | *Coffee*                  |        | Break    | 15:00 | 15:30 | 00:30    |
 | More matplotlib, csv,     | Tiago  | Lecture  | 15:30 | 17:00 | 01:30    |
 |  datetime and seaborn     |        |          |       |       |          |
@@ -35,7 +35,7 @@
 ## Day 3 (2018-05-24 Fri)
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
-| Introduction to cartopy   | Will   | Exercise | 09:00 | 10:00 | 01:00    |
+| Introduction to cartopy   | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
 | Introduction to pandas    | Callum | Lecture  | 10:00 | 10:30 | 00:30    |
 | *Coffee*                  |        | Break    | 10:30 | 11:00 | 00:30    |
 | More pandas, xarray(?)    | Tiago  | Lecture  | 11:00 | 12:30 | 01:30    |

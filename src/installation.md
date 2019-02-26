@@ -12,9 +12,13 @@ Note: **the course is designed in Python 3.6**, but for most cases will work in 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/)
 
 ## 2. Download course materials
-The material for the workshop can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2019-materials) or can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip).
+The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2019-materials).
 
-### Option 1: Using Git
+
+### Option 1: Download ZIP file
+Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
+
+### Option 2: Using Git
 #### 2.1. Install Git
 If you don't have git version control system installed, you can install it following these instructions:
 ##### Linux
@@ -47,10 +51,6 @@ github clone https://github.com/ueapy/pythoncourse2019-materials.git
 This should create a local copy of the course materials in the current directory.
 
 Windows-users, double check that it is cloned in the directory you want.
-
-
-### Option 2: Download ZIP file
-Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2019-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
 
 
 ## 3. Create the environment
