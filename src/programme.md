@@ -1,5 +1,6 @@
 # Programme
-## Day 1 (2018-05-22 Wed) Python Basics
+## Day 1 - Python Basics
+Wednesday 22nd of May 2019
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Introduction to Python    | Callum | Lecture  | 09:00 | 09:30 | 00:30    |
@@ -18,7 +19,8 @@
 | Modularity and packages   | Callum | Lecture  | 16:00 | 16:30 | 00:30    |
 | Build another program     | Luz    | Exercise | 16:30 | 17:00 | 00:30    |
 
-## Day 2 (2019-05-23 Thu) Arrays and Plots
+## Day 2 -  Arrays and Plots
+Thursday 23rd of May 2019
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Numpy: basics             | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
@@ -32,7 +34,8 @@
 | More matplotlib, csv,     | Tiago  | Lecture  | 15:30 | 17:00 | 01:30    |
 |  datetime and seaborn     |        |          |       |       |          |
 
-## Day 3 (2018-05-24 Fri) Maps and Datasets
+## Day 3 - Maps and Datasets
+Friday 24th of May 2019
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Introduction to cartopy   | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
