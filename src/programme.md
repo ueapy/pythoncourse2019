@@ -1,6 +1,7 @@
 # Programme
 ## Day 1 - Python Basics
 Wednesday 22nd of May 2019
+
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Introduction to Python    | Callum | Lecture  | 09:00 | 09:30 | 00:30    |
@@ -21,6 +22,7 @@ Wednesday 22nd of May 2019
 
 ## Day 2 -  Arrays and Plots
 Thursday 23rd of May 2019
+
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Numpy: basics             | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
@@ -36,6 +38,7 @@ Thursday 23rd of May 2019
 
 ## Day 3 - Maps and Datasets
 Friday 24th of May 2019
+
 | Topic                     | Leader | Type     | Start | End   | Duration |
 |---------------------------|--------|----------|-------|-------|----------|
 | Introduction to cartopy   | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
