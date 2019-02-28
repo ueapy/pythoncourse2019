@@ -30,7 +30,12 @@ Constable Terrace Training Room, University of East Anglia, Norwich
 * Luz [luz.garcia@cefas.co.uk](mailto:luz.garcia@cefas.co.uk)
 
 ## Unable to attend?
-Come to fortnightly meetings of the UEA Python group! Check the archives of previous sessions and the meetings calendar here: [https://ueapy.github.io](https://ueapy.github.io/).
+
+###Cefas
+The PyFAS group meets at least one a month. Contact Riccardo Arosio to receive the invites.
+
+###UEA
+The UEA Python group meets fornightly. Check the archives of previous sessions and the meetings calendar here: [https://ueapy.github.io](https://ueapy.github.io/).
 
 <center>
 <a href="http://www.uea.ac.uk"><img src="flyer/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
