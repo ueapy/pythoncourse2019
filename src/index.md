@@ -14,7 +14,7 @@
 22-24 May 2019
 
 ## Where?
-Constable Terrace Training Room, University of East Anglia, Norwich
+[Constable Terrace Training Room, University of East Anglia, Norwich](https://www.uea.ac.uk/about/visiting-staying/campus-map)
 
 ## Topics
 * Python basics and programming environment
