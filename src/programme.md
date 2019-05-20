@@ -33,8 +33,8 @@ Thursday 23rd of May 2019
 | Intro to matplotlib       | Callum | Lecture  | 12:45 | 14:00 | 01:15    |
 | Plotting exercise         | Callum | Exercise | 14:00 | 15:00 | 01:00    |
 | *Coffee*                  |        | Break    | 15:00 | 15:30 | 00:30    |
-| More matplotlib, csv,     | Tiago  | Lecture  | 15:30 | 17:00 | 01:30    |
-|  datetime and seaborn     |        |          |       |       |          |
+| Datetime and plotting     | Tiago  | Lecture  | 15:30 | 17:00 | 01:30    |
+|  with Seaborn             |        |          |       |       |          |
 
 ## Day 3 - Maps and Datasets
 Friday 24th of May 2019
@@ -44,8 +44,9 @@ Friday 24th of May 2019
 | Introduction to cartopy   | Will   | Lecture  | 09:00 | 10:00 | 01:00    |
 | Introduction to pandas    | Callum | Lecture  | 10:00 | 10:30 | 00:30    |
 | *Coffee*                  |        | Break    | 10:30 | 11:00 | 00:30    |
-| More pandas, xarray       | Tiago  | Lecture  | 11:00 | 12:30 | 01:30    |
+| More pandas               | Tiago  | Lecture  | 11:00 | 12:30 | 01:30    |
 | *Lunch*                   |        | Break    | 12:30 | 13:15 | 00:45    |
-| Working with netCDF data  | Luz    | Lecture  | 13:15 | 14:45 | 01:30    |
+| Xarray and working with   | Luz    | Lecture  | 13:15 | 14:45 | 01:30    |
+|  netCDF data              |        |          |       |       |          |
 | *Coffee*                  |        | Break    | 14:45 | 15:15 | 00:30    |
 | Bring-your-data project   | Tiago  | Exercise | 15:15 | 17:00 | 01:45    |
